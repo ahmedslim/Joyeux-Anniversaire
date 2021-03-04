@@ -1,0 +1,12 @@
+.container{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+.JoyeuxAnniversaire img{
+	border-radius:0;
+}
+aside{
+	padding-right: 50px;
+	float: none;
+}
